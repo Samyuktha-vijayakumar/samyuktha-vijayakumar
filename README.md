@@ -18,7 +18,7 @@ I am a B.Tech graduate in Artificial Intelligence and Data Science with a strong
 ---
 [![](https://komarev.com/ghpvc/?username=Samyuktha-vijayakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Samyuktha-vijayakumar/samyuktha-vijayakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
